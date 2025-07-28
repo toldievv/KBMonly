@@ -1,0 +1,26 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/drawable/temp_games.xml" value="0.148" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/drawable/temp_news.xml" value="0.148" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/drawable/temp_profile.xml" value="0.148" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/drawable/temp_search.xml" value="0.148" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/layout/fragment_gamelist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/layout/fragment_newslist.xml" value="0.253125" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/layout/fragment_profile.xml" value="0.253125" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/layout/item_games.xml" value="0.253125" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/KBMonly/app/src/main/res/menu/menu_bottom.xml" value="1.0166666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

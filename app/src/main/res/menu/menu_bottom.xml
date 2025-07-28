@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_gamelist"
+        android:title="Игры"
+        android:icon="@drawable/temp_games" />
+    <item android:id="@+id/action_newslist"
+        android:title="Новости"
+        android:icon="@drawable/temp_news" />
+    <item android:id="@+id/action_profile"
+        android:title="Профиль"
+        android:icon="@drawable/temp_profile" />
+</menu>
